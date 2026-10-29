@@ -11,8 +11,8 @@ This repository contains my design for an AI-assisted contractor proposal evalua
 ## Submission Files
 
 - [WRITEUP.md](matacs-th-2026-02/matacs-th-2026-02/WRITEUP.md): process decisions, explainability, human oversight and risks.
-- [PROMPTS.md](PROMPTS.md): structured extraction and independent evidence verification.
-- [ranking.json](ranking.json): expected results for proposals A to E.
+- [PROMPTS.md](matacs-th-2026-02/matacs-th-2026-02/PROMPTS.md): structured extraction and independent evidence verification.
+- [ranking.json](matacs-th-2026-02/matacs-th-2026-02/ranking.json): expected results for proposals A to E.
 - [diagram/flowchart.png](diagram/flowchart.png): workflow showing AI, rules and human checkpoints.
 
 ## Expected Ranking
